@@ -19,8 +19,8 @@ Welcome to the **Kids & Gaming Setups** website! This project explores how young
 
 ## 📂 How to View
 
-Visit the live site [here](https://your-github-username.github.io/project-name)  
-*(Replace with your actual link)*
+Visit the live site [here](https://shtiwari439-eng.github.io/Gaming-setup-website/)  
+
 
 ## 🙌 Credits
 
